@@ -3,6 +3,7 @@
 ## 📌 Overview
 
 This project analyzes how **Bitcoin Market Sentiment (Fear & Greed Index)** impacts **trader performance** on Hyperliquid.
+[Report](https://docs.google.com/document/d/1LSvOj8BSEvEyoy5WVzcRGiR8Z0cd86xIdBW0YFpH2tU/edit?usp=sharing)
 
 The goal is to uncover:
 
