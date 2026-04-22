@@ -1,0 +1,64 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# VS Code
+
+.vscode/
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
+
+# Data files (optional - keep if large)
+
+# Uncomment if you don’t want to upload datasets
+
+# dataset/*.csv
+
+# Outputs (recommended to ignore)
+
+outputs/
+*.png
+
+# Temporary files
+
+*.tmp
+*.bak
+
+# Python packaging
+
+build/
+dist/
+*.egg-info/
+
+# Environment variables
+
+.env
+
+# Cache
+
+.cache/
+
+# Matplotlib cache
+
+.matplotlib/
